@@ -1,8 +1,8 @@
 .tile.is-ancestor:nth-child(2n + 1) > .tile > .tile.is-child:nth-child(2n),
 .tile.is-ancestor:nth-child(2n) > .tile > .tile.is-child:nth-child(2n + 1) {
-  background-color:rgb(117, 108, 249);
+  background-color:greenyellow;
 }
 
 .column {
-  border: 25px inset rgb(79, 2, 2);
+  border: 25px inset black
 }
